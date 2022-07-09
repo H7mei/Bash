@@ -1,33 +1,18 @@
 # daftar isi
 
-1. basic
-
-2. bash script
-
-3. variabel
-
-4. Aritmetic operations
-
-5. Boolean
-
-6. Style Bash
-
-7. date
-
-8. Array
-
-9. File
-
-10. ch2_solution.sh
-
-11. if else
-
-12. looping
-
-13. case
-
-14. function
-
-15. option parameter
-
-16. guesing game
+1. [basic](./1.sh)
+2. [bash script](./2.sh)
+3. [variabel](./3.sh)
+4. [Aritmetic operations](./4.sh)
+5. [Boolean](./5.sh)
+6. [Style Bash](./6.sh)
+7. [date](./7.sh)
+8. [Array](./8.sh)
+9. [File](./9.sh)
+10. [ch2_solution.sh](./10.sh)
+11. [if else](./11.sh)
+12. [looping](./12.sh)
+13. [case](./13.sh)
+14. [function](./14.sh)
+15. [option parameter](./15.sh)
+16. [guesing game](./16.sh)

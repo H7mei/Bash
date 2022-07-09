@@ -13,12 +13,12 @@
 nama : Bash<br/>
 sejak : 1989<br/>
 dibuat oleh : [Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer))<br/>
-tujuan pembuatan :  untuk Proyek GNU sebagai pengganti perangkat lunak bebas untuk shell Bourne .<br/>
+tujuan pembuatan :  untuk Proyek GNU sebagai pengganti perangkat lunak bebas untuk shell Bourne<br/>
 Jenis : Unix Shell<br/>
 situs web resmi : [GNU Operating System](https://www.gnu.org/software/bash/)<br/>
 learning : [exercism.org](https://exercism.org/tracks/bash)
 
-## run scriot
+## run script
 
 ```bash
 # run
